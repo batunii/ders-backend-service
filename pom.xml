@@ -11,6 +11,7 @@
 	<groupId>com.ders.backend</groupId>
 	<artifactId>ders</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>jar</packaging>
 	<name>DERS</name>
 	<description>Back-end for Deloitte Engine for Resume Search</description>
 	<properties>

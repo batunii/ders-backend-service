@@ -57,7 +57,7 @@ const callSearch = async() =>
         {
             console.log(`${key}, ${value}`); 
         }
-        createTable(arrayResp); 
+       createTable(arrayResp)
         console.log(arrayResp);
     }
     else{
